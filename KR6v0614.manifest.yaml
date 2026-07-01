@@ -1,0 +1,922 @@
+canonical_identifier: bkk:krp/KR6v0614/v1
+canonical_location: https://kanripo.org/bkk/KR6v0614/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 如來藏之研究
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y39/Y39n0037.xml
+    old_id: Y39n0037
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0614_001.yaml, hash: 'sha256:06ea8a2ea8151c4bdaa3f72b4b14b8acbbaadcc1b2528e6861c1d8c0d2ef9b11'}
+  - {seq: 2, filename: KR6v0614_002.yaml, hash: 'sha256:8f797e82acb47c75a0e17e23103abee2028aaf56b75436cab460b44f24c36ea4'}
+  - {seq: 3, filename: KR6v0614_003.yaml, hash: 'sha256:7085a3aa0cecfd6967ebd7d09f3d8aef692039c3a9ac6fa28202c5fdf0486ca7'}
+  - {seq: 4, filename: KR6v0614_004.yaml, hash: 'sha256:945490b3b9fc642fc0bec04b00c60b98bc8e62a14d164d6462cdf44d1ee6b006'}
+  - {seq: 5, filename: KR6v0614_005.yaml, hash: 'sha256:68680a148ca88c78c1ae4637e2bb9936a09acd74358ae5fb640bdb8ca0286658'}
+  - {seq: 6, filename: KR6v0614_006.yaml, hash: 'sha256:ed86426c6133e34f866d1358dceb4101aa6dbe29fb937ba3b83a1213c5bed590'}
+  - {seq: 7, filename: KR6v0614_007.yaml, hash: 'sha256:2c6015c2b894ac1479156fd87db595549ba9143b61fb62e1561ea5909786d325'}
+  - {seq: 8, filename: KR6v0614_008.yaml, hash: 'sha256:6f409c95d1dbb23b697f5e7a054871682b917412b168dd6f440555358f8b7341'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0614_001.markers.yaml, hash: 'sha256:5cba107c54e748914de9ed6d069645baca150fc11a9cbcc3830216151f324f51'}
+  - {seq: 2, role: markers, filename: assets/KR6v0614_002.markers.yaml, hash: 'sha256:e6fb63490a37439c3b29a8ad4cf53e8fae41295060f008c9bebc82cc4a538062'}
+  - {seq: 3, role: markers, filename: assets/KR6v0614_003.markers.yaml, hash: 'sha256:4e084bbb85a6dea9ae7f0df371586dd8d96a88947b94dfb471c7e5e909af3d7f'}
+  - {seq: 4, role: markers, filename: assets/KR6v0614_004.markers.yaml, hash: 'sha256:8802266db3d7b1af1450b9df3ccc293fbc6f326785989ee6ccea48a693ad47db'}
+  - {seq: 5, role: markers, filename: assets/KR6v0614_005.markers.yaml, hash: 'sha256:5cabd038d2c93694fb37bc00631f3ded52695a791b15a792af6b834482606bb5'}
+  - {seq: 6, role: markers, filename: assets/KR6v0614_006.markers.yaml, hash: 'sha256:33bb9b05e651b8f9758104d8e81a3f8fda0a26f2217731edb3672bab7978029b'}
+  - {seq: 7, role: markers, filename: assets/KR6v0614_007.markers.yaml, hash: 'sha256:01dd0af04b5f7e13927f3ee4958473f12bd39c916892b64a5d447d17a81763f8'}
+  - {seq: 8, role: markers, filename: assets/KR6v0614_008.markers.yaml, hash: 'sha256:e38156249d5c103296b14d8362b98394be07c705cc5c82eb49a68bb8fc00ee99'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 6856
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-mulu-2
+    span:
+    - body
+    - 776
+    - 776
+  label: 第一章　序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-mulu-3
+    span:
+    - body
+    - 781
+    - 781
+  label: 第一節　如來藏學在佛教中的地位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-mulu-4
+    span:
+    - body
+    - 1810
+    - 1810
+  label: 第二節　與如來藏有關的經論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0614_Y_001-mulu-5
+    span:
+    - body
+    - 3754
+    - 3754
+  label: 第三節　如來藏的名稱與意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 17423
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二章　如來藏思想探源
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 第一節　如來與法身
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-mulu-3
+    span:
+    - body
+    - 3343
+    - 3343
+  label: 第二節　如來與界
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-mulu-4
+    span:
+    - body
+    - 7897
+    - 7897
+  label: 第三節　如來與我
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0614_Y_002-mulu-5
+    span:
+    - body
+    - 15321
+    - 15321
+  label: 第四節　佛子與佛種性
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0614_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 7642
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0614_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第三章　心性本淨說之發展
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0614_Y_003-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 第一節　聲聞經論的心淨說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0614_Y_003-mulu-3
+    span:
+    - body
+    - 4740
+    - 4740
+  label: 第二節　初期大乘的心性本淨說
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 9281
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第四章　如來藏說之孕育與完成
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 第一節　法法平等與事事無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-mulu-3
+    span:
+    - body
+    - 3235
+    - 3235
+  label: 第二節　華嚴經含蓄的如來藏說
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-mulu-4
+    span:
+    - body
+    - 5454
+    - 5454
+  label: 第三節　心、菩提心、菩提、眾生界
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0614_Y_004-mulu-5
+    span:
+    - body
+    - 7971
+    - 7971
+  label: 第四節　如來藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 10951
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第五章　如來藏說之初期聖典
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 第一節　初期聖典與弘傳者的風格
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-mulu-3
+    span:
+    - body
+    - 3383
+    - 3383
+  label: 第二節　如來與如來藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-mulu-4
+    span:
+    - body
+    - 5801
+    - 5801
+  label: 第三節　如來藏我
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0614_Y_005-mulu-5
+    span:
+    - body
+    - 8837
+    - 8837
+  label: 第四節　如來藏不空
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 13052
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第六章　如來藏學之主流
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 第一節　傳說中的如來藏法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-mulu-3
+    span:
+    - body
+    - 1267
+    - 1267
+  label: 第二節　寶性論為主的如來藏論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-mulu-4
+    span:
+    - body
+    - 4134
+    - 4134
+  label: 第三節　寶性論所依的經論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0614_Y_006-mulu-5
+    span:
+    - body
+    - 6164
+    - 6164
+  label: 第四節　寶性論義的分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0614_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 18974
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0614_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第七章　瑜伽學派之如來藏說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0614_Y_007-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 第一節　瑜伽學派略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0614_Y_007-mulu-3
+    span:
+    - body
+    - 1968
+    - 1968
+  label: 第二節　瑜伽唯識學的如來藏說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0614_Y_007-mulu-4
+    span:
+    - body
+    - 8757
+    - 8757
+  label: 第三節　真諦所傳的如來藏說
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 17530
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第八章　如來藏佛性之抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 第一節　楞伽經的如來藏說
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-3
+    span:
+    - body
+    - 4971
+    - 4971
+  label: 第二節　涅槃經續譯部分的佛性說
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-4
+    span:
+    - body
+    - 13009
+    - 13009
+  label: 中文索引
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-5
+    span:
+    - body
+    - 13013
+    - 13013
+  label: 一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-6
+    span:
+    - body
+    - 13147
+    - 13147
+  label: 二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-7
+    span:
+    - body
+    - 13377
+    - 13377
+  label: 三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-8
+    span:
+    - body
+    - 13789
+    - 13789
+  label: 四畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-9
+    span:
+    - body
+    - 14191
+    - 14191
+  label: 五畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-10
+    span:
+    - body
+    - 14415
+    - 14415
+  label: 六畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-11
+    span:
+    - body
+    - 14859
+    - 14859
+  label: 七畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-12
+    span:
+    - body
+    - 15043
+    - 15043
+  label: 八畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-13
+    span:
+    - body
+    - 15516
+    - 15516
+  label: 九畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-14
+    span:
+    - body
+    - 15662
+    - 15662
+  label: 十畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-15
+    span:
+    - body
+    - 15914
+    - 15914
+  label: 十一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-16
+    span:
+    - body
+    - 16322
+    - 16322
+  label: 十二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-17
+    span:
+    - body
+    - 16691
+    - 16691
+  label: 十三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-18
+    span:
+    - body
+    - 16892
+    - 16892
+  label: 十四畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-19
+    span:
+    - body
+    - 17023
+    - 17023
+  label: 十五畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-20
+    span:
+    - body
+    - 17100
+    - 17100
+  label: 十六畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-21
+    span:
+    - body
+    - 17189
+    - 17189
+  label: 十七畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-22
+    span:
+    - body
+    - 17263
+    - 17263
+  label: 十八畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-23
+    span:
+    - body
+    - 17330
+    - 17330
+  label: 十九畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-24
+    span:
+    - body
+    - 17432
+    - 17432
+  label: 二十畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-25
+    span:
+    - body
+    - 17458
+    - 17458
+  label: 二一畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-26
+    span:
+    - body
+    - 17499
+    - 17499
+  label: 二二畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-27
+    span:
+    - body
+    - 17507
+    - 17507
+  label: 二三畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-28
+    span:
+    - body
+    - 17523
+    - 17523
+  label: 梵巴藏歐文索引
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-29
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ａ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-30
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｂ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-31
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｃ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-32
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｄ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-33
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｅ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-34
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｇ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-35
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｈ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-36
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｉ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-37
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｊ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-38
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｋ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-39
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｌ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-40
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｍ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-41
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｎ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-42
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｐ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-43
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｒ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-44
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｓ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-45
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｔ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-46
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｕ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-47
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｖ
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0614_Y_008-mulu-48
+    span:
+    - body
+    - 17530
+    - 17530
+  label: Ｙ
+  type: mulu
+  level: 1
+hash: sha256:e95fb944c28ba931bfb18073603d09b41390e24464aedaca067429e912aae036
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
